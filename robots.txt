@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://goalcompleted.com/sitemap.xml
