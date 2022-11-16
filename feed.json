@@ -12,16 +12,16 @@
         {
             "id": "https://goalscompleted.com/what-is-a-goal/",
             "url": "https://goalscompleted.com/what-is-a-goal/",
-            "title": "What is a goal?",
-            "summary": "Something you hope to achieve in the future.",
-            "content_html": "<p>Something you hope to achieve in the future.</p>",
+            "title": "Why goals?",
+            "summary": "If you really want something you need to focus on making it happen. You can do it! And you need to be smart about how. That's where we can help you. You can get help with understanding your goals and their relative priorities. You can&hellip;",
+            "content_html": "<p>If you really want something you need to focus on making it happen. You can do it! And you need to be smart about how.</p>\n<p>That's where we can help you. </p>\n<ul>\n<li>You can get help with understanding your goals and their relative priorities.</li>\n<li>You can learn new skills that help you to succeed in any profession.</li>\n<li>You can start a new career in the technology industry.</li>\n</ul>",
             "author": {
                 "name": "Andy Miles"
             },
             "tags": [
             ],
             "date_published": "2022-11-16T09:39:34-08:00",
-            "date_modified": "2022-11-16T09:39:34-08:00"
+            "date_modified": "2022-11-16T10:21:47-08:00"
         }
     ]
 }

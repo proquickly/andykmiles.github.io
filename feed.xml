@@ -3,29 +3,35 @@
     <title>Goals Completed</title>
     <link href="https://goalscompleted.com/feed.xml" rel="self" />
     <link href="https://goalscompleted.com" />
-    <updated>2022-11-16T09:39:34-08:00</updated>
+    <updated>2022-11-16T10:21:47-08:00</updated>
     <author>
         <name>Andy Miles</name>
     </author>
     <id>https://goalscompleted.com</id>
 
     <entry>
-        <title>What is a goal?</title>
+        <title>Why goals?</title>
         <author>
             <name>Andy Miles</name>
         </author>
         <link href="https://goalscompleted.com/what-is-a-goal/"/>
         <id>https://goalscompleted.com/what-is-a-goal/</id>
 
-        <updated>2022-11-16T09:39:34-08:00</updated>
+        <updated>2022-11-16T10:21:47-08:00</updated>
             <summary>
                 <![CDATA[
-                    Something you hope to achieve in the future.
+                    If you really want something you need to focus on making it happen. You can do it! And you need to be smart about how. That's where we can help you. You can get help with understanding your goals and their relative priorities. You can&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Something you hope to achieve in the future.</p>
+                <p>If you really want something you need to focus on making it happen. You can do it! And you need to be smart about how.</p>
+<p>That's where we can help you. </p>
+<ul>
+<li>You can get help with understanding your goals and their relative priorities.</li>
+<li>You can learn new skills that help you to succeed in any profession.</li>
+<li>You can start a new career in the technology industry.</li>
+</ul>
             ]]>
         </content>
     </entry>
