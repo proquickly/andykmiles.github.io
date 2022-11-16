@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://goalscompleted.com/what-is-a-goal.html",
-            "url": "https://goalscompleted.com/what-is-a-goal.html",
+            "id": "https://goalscompleted.com/what-is-a-goal/",
+            "url": "https://goalscompleted.com/what-is-a-goal/",
             "title": "What is a goal?",
             "summary": "Something you hope to achieve in the future.",
             "content_html": "<p>Something you hope to achieve in the future.</p>",
