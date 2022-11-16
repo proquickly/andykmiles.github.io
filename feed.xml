@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Goals Completed</title>
-    <link href="https://goalcompleted.com/feed.xml" rel="self" />
-    <link href="https://goalcompleted.com" />
+    <link href="https://goalscompleted.com/feed.xml" rel="self" />
+    <link href="https://goalscompleted.com" />
     <updated>2022-11-16T09:39:34-08:00</updated>
     <author>
         <name>Andy Miles</name>
     </author>
-    <id>https://goalcompleted.com</id>
+    <id>https://goalscompleted.com</id>
 
     <entry>
         <title>What is a goal?</title>
         <author>
             <name>Andy Miles</name>
         </author>
-        <link href="https://goalcompleted.com/what-is-a-goal.html"/>
-        <id>https://goalcompleted.com/what-is-a-goal.html</id>
+        <link href="https://goalscompleted.com/what-is-a-goal.html"/>
+        <id>https://goalscompleted.com/what-is-a-goal.html</id>
 
         <updated>2022-11-16T09:39:34-08:00</updated>
             <summary>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://goalcompleted.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://goalscompleted.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://goalcompleted.com/</loc>
+<loc>https://goalscompleted.com/</loc>
 </url>
 <url>
-<loc>https://goalcompleted.com/what-is-a-goal.html</loc>
+<loc>https://goalscompleted.com/what-is-a-goal.html</loc>
 <lastmod>2022-11-16T09:39:34-08:00</lastmod>
 </url>
 </urlset>

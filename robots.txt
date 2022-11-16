@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://goalcompleted.com/sitemap.xml
+Sitemap: https://goalscompleted.com/sitemap.xml

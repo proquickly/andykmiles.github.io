@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Goals Completed",
     "description": "",
-    "home_page_url": "https://goalcompleted.com",
-    "feed_url": "https://goalcompleted.com/feed.json",
+    "home_page_url": "https://goalscompleted.com",
+    "feed_url": "https://goalscompleted.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Andy Miles"
     },
     "items": [
         {
-            "id": "https://goalcompleted.com/what-is-a-goal.html",
-            "url": "https://goalcompleted.com/what-is-a-goal.html",
+            "id": "https://goalscompleted.com/what-is-a-goal.html",
+            "url": "https://goalscompleted.com/what-is-a-goal.html",
             "title": "What is a goal?",
             "summary": "Something you hope to achieve in the future.",
             "content_html": "<p>Something you hope to achieve in the future.</p>",
